@@ -1,9 +1,12 @@
 # fetch-data-engineering-exam
  
 #### How to run the code
-#### Step 1: Run Docker compose using command : docker compose up
-#### Step 2: Run Pip install from requirements.txt : pip install -r requirements.txt
-#### Step 3: Run the Python Code : python/python3 app.py
+#### Step 1: Install Python for your OS : https://www.python.org/downloads/
+#### Step 2: Install DockerHub from Docker : https://docs.docker.com/docker-hub/quickstart/
+#### Step 3: Install Postgres : https://www.postgresql.org/download/
+#### Step 4: Run Docker compose using command : docker compose up
+#### Step 5: Run Pip install from requirements.txt : pip/pip3 install -r requirements.txt
+#### Step 6: Run the Python Code : python/python3 app.py
 
 #### Design Questions Answered
 #### Q1. How would you deploy this application in production?
